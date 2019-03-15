@@ -1,0 +1,1 @@
+# wechat-share-or-wxconfig
